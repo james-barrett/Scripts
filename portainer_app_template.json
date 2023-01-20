@@ -314,7 +314,7 @@
 					"name": "PGID"
 				}
 			],
-			"image": "lscr.io/linuxserver/heimdall:latest",
+			"image": "https://hub.docker.com/r/linuxserver/heimdall:latest",
 			"logo": "https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/master/Images/heimdall-icon.png",
 			"name": "heimdall",
 			"platform": "linux",
